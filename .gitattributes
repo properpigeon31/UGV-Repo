@@ -8,3 +8,4 @@
 
 #Other
 *.pdf filter-lfs diff-lfs merge-lfe -text
+*.xlsx filter-lfs diff-lfs merge-lfe -text
